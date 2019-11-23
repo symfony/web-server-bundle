@@ -1,3 +1,11 @@
+-----
+
+**This package is DEPRECATED** and it's not compatible with Symfony starting from Symfony 5.0.
+
+Instead, use the [Symfony Local Web Server](https://symfony.com/doc/current/setup/symfony_server.html).
+
+-----
+
 WebServerBundle
 ===============
 
